@@ -1,3 +1,3 @@
 # Data Science
-## task1
+## Task1
 here we have jupytrr file for this task. where all the explainations and inferences are written :)
